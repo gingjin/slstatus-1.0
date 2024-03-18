@@ -7,6 +7,7 @@ include config.mk
 REQ = util
 COM =\
 	components/alsa_master_vol\
+	components/backlight\
 	components/battery\
 	components/cat\
 	components/cpu\
